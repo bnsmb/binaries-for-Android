@@ -7,7 +7,7 @@ The binaries run on Android 13 and newer Android versions (most probably also on
 
 
 
-The file **openssh_9.9p1_v1.1.0.tar.gz** in the directory **tar_files** contains **OpenSSH binaries and files** for the Android operating system, which can be installed in the directory **/data/local/tmp**  so that the user **shell** can start an sshd on the phone.
+The files **openssh_9.9p2_v1.0.0.tar.gz** and **openssh_9.9p1_v1.1.0.tar.gz** in the directory **tar_files** contain **OpenSSH binaries and files** for the Android operating system, which can be installed in the directory **/data/local/tmp**  so that the user **shell** can start an sshd on the phone.
 
 see 
 
