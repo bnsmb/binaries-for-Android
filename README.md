@@ -22,8 +22,9 @@ Binaries in this repository as of **05.04.2025** are
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
-| less | 661 | https://github.com/vbwagner/less | |
-| lessecho | 1.15 | https://github.com/vbwagner/less | |
+| less | 661 | https://ftp.gnu.org/gnu/less/ | |
+| lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
+| lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | nano | 8.2 | https://www.nano-editor.org/git.php | |
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php | |
