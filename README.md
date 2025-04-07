@@ -41,7 +41,7 @@ Binaries in this repository as of **05.04.2025** are
 | vim | 9.1 | https://github.com/vim/vim  | |
 | wget2 | 2.1.0 | https://gitlab.com/gnuwget/wget2 | |
 | xxd | 9.1 | https://github.com/vim/vim  | |
-| xz | 5.6.2 | https://github.com/tukaani-project/xz | |
+| xz | 5.8.1 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
 
 
