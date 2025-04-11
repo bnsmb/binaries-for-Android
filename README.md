@@ -10,7 +10,7 @@ Binaries in this repository as of **05.04.2025** are
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
 | 7zz  | 24.05 | https://www.7-zip.org | | 
-| gawk | 5.2.0 |  https://www.gnu.org/software/gawk/ | |
+| gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.4.2 | https://bvi.sourceforge.net/ |  |
