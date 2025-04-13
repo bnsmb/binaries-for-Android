@@ -5,7 +5,7 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **07.04.2025** are
+Binaries in this repository as of **13.04.2025** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
