@@ -16,7 +16,7 @@ Binaries in this repository as of **05.04.2025** are
 | bmore | 1.4.2 | https://bvi.sourceforge.net/ |  |
 | bvi | 1.4.2 | https://bvi.sourceforge.net/ | |
 | cpio | 2.9 | https://www.gnu.org/software/cpio/ |  |
-| curl | 8.11.1 | https://github.com/curl/curl |  |
+| curl | 8.13.0 | https://github.com/curl/curl |  |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
