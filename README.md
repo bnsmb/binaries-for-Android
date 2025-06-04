@@ -34,7 +34,7 @@ Binaries in this repository as of **13.04.2025** are
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
 | sepolicy-inject |  | |
 | socat | 1.8.0.2 | http://www.dest-unreach.org/socat  | |
-| sqlite3 | 3.47.0 | https://github.com/sqlite/sqlite/ | |
+| sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ | |
 | tmux | 3.5a | https://github.com/tmux/tmux  | |
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
