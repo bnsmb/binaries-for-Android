@@ -11,7 +11,9 @@ Binaries in this repository as of **13.04.2025** are
 | ---| ---| ---| ---|
 | 7zz  | 24.05 | https://www.7-zip.org | | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
-| bash | 5.2.37|  https://www.gnu.org/software/bash/ | |
+| bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
+| bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
+| bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.4.2 | https://bvi.sourceforge.net/ |  |
 | bvi | 1.4.2 | https://bvi.sourceforge.net/ | |
