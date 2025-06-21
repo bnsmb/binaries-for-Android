@@ -45,6 +45,9 @@ Binaries in this repository as of **13.04.2025** are
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.1 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
+| pstree | 22.14 | https://github.com/acg/psmisc | | 
+| fuser | 22.14 | https://github.com/acg/psmisc | | 
+| klllall | 22.14 | https://github.com/acg/psmisc | | 
 
 
 
