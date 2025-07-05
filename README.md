@@ -24,10 +24,12 @@ Binaries in this repository as of **22.06.2025** are
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
+| htop | 3.4.1 | https://github.com/htop-dev/htop | |
 | less | 661 | https://ftp.gnu.org/gnu/less/ | |
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | losetup | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
+| ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | nano | 8.2 | https://www.nano-editor.org/git.php | |
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
