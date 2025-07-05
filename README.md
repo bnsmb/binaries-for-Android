@@ -65,7 +65,7 @@ are required; without these permissions **root** access is necessary to run **tm
 
 -------
 
-The files **openssh_9.9p2_v1.0.0.tar.gz**, **openssh_9.9p1_v1.1.0.tar.gz**, and **openssh_10.0p2_v1.0.0.tar.gz** in the directory **tar_files** contain **OpenSSH binaries and files** for the Android operating system, which can be installed in the directory **/data/local/tmp**  so that the user **shell** can start an **sshd** on the phone.
+The files **openssh_9.9p2_v1.0.0.tar.gz**, **openssh_9.9p1_v1.1.0.tar.gz**, and **openssh_10.0p2_v1.1.0.tar.gz** in the directory **tar_files** contain **OpenSSH binaries and files** for the Android operating system, which can be installed in the directory **/data/local/tmp**  so that the user **shell** can start an **sshd** on the phone.
 
 
 see 
