@@ -9,7 +9,7 @@ Binaries in this repository as of **22.06.2025** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
-| 7zz  | 25.00 | https://www.7-zip.org | | 
+| 7zz  | 25.00 | https://www.7-zip.org | statically linked | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
