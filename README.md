@@ -5,7 +5,7 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **22.06.2025** are
+Binaries in this repository as of **18.08.2025** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
@@ -16,6 +16,7 @@ Binaries in this repository as of **22.06.2025** are
 | bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.4.2 | https://bvi.sourceforge.net/ |  |
+| btop | 1.4.4 | https://github.com/aristocratos/btop | btop needs root access or permissive selinux mode |
 | bvi | 1.4.2 | https://bvi.sourceforge.net/ | |
 | cpio | 2.9 | https://www.gnu.org/software/cpio/ |  |
 | curl | 8.15.0 | https://github.com/curl/curl |  |
