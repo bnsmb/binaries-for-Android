@@ -32,7 +32,7 @@ Binaries in this repository as of **18.08.2025** are
 | losetup | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| nano | 8.2, 8.4, 8.5 | https://www.nano-editor.org/git.php | |
+| nano | 8.2, 8.4, 8.5, 8.6 | https://www.nano-editor.org/git.php | |
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php | |
 | openssl | 3.3.1.4 |  https://github.com/openssl/openssl | |
