@@ -55,7 +55,7 @@ Binaries in this repository as of **18.08.2025** are
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon | 
+| unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
 
 ------
 
