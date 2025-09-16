@@ -36,6 +36,7 @@ Binaries in this repository as of **18.08.2025** are
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php | |
 | openssl | 3.3.1.4 |  https://github.com/openssl/openssl | |
+| protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
 | pigz | 2.8 | https://zlib.net/pigz/ | |
 | rsync | 3.3.0 | https://github.com/RsyncProject/rsync | |
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
