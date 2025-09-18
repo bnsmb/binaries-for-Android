@@ -9,15 +9,18 @@ Binaries in this repository as of **18.08.2025** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
+| static_gdb/ | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
 | 7zz  | 25.00 | https://www.7-zip.org | statically linked | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
 | bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
-| bmore | 1.4.2 | https://bvi.sourceforge.net/ |  |
+| bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
+| bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
 | btop | 1.4.4 | https://github.com/aristocratos/btop | btop needs root access or permissive selinux mode |
-| bvi | 1.4.2 | https://bvi.sourceforge.net/ | |
+| bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
+  bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.9 | https://www.gnu.org/software/cpio/ |  |
 | curl | 8.15.0 | https://github.com/curl/curl |  |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
