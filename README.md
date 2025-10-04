@@ -26,6 +26,7 @@ Binaries in this repository as of **18.08.2025** are
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
+| gdb.static  | 16.3 | https://sourceware.org/gdb/ |  this is a statically linked binary | 
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | htop | 3.4.1 | https://github.com/htop-dev/htop | |
