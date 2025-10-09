@@ -25,6 +25,7 @@ Binaries in this repository as of **18.08.2025** are
 | curl | 8.15.0 | https://github.com/curl/curl |  |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
+| find | 4.9.0 | https://ftp.gnu.org/gnu/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
