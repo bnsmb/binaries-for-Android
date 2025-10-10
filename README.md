@@ -48,6 +48,8 @@ Binaries in this repository as of **09.10.2025** are
 | socat | 1.8.0.2 | http://www.dest-unreach.org/socat  | |
 | sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ | |
 | sqlite3.static | 3.50.1 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
+| sqlite3-3.50.4 | 3.50.4 | https://github.com/sqlite/sqlite/ | |
+| sqlite3-3.50.4.static  | 3.50.4 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
