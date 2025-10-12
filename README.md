@@ -5,7 +5,7 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **18.08.2025** are
+Binaries in this repository as of **09.10.2025** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
@@ -25,7 +25,7 @@ Binaries in this repository as of **18.08.2025** are
 | curl | 8.15.0 | https://github.com/curl/curl |  |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
-| find | 4.9.0 | https://ftp.gnu.org/gnu/findutils/ | |  
+| find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
@@ -48,6 +48,8 @@ Binaries in this repository as of **18.08.2025** are
 | socat | 1.8.0.2 | http://www.dest-unreach.org/socat  | |
 | sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ | |
 | sqlite3.static | 3.50.1 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
+| sqlite3-3.50.4 | 3.50.4 | https://github.com/sqlite/sqlite/ | |
+| sqlite3-3.50.4.static  | 3.50.4 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
