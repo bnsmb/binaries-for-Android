@@ -10,7 +10,8 @@ Binaries in this repository as of **09.10.2025** are
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
 | static_gdb/ | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
-| 7zz  | 25.00 | https://www.7-zip.org | statically linked | 
+| 7zz_25.00_static  | 25.00 | https://www.7-zip.org | statically linked | 
+| 7zz | 25.01 | https://www.7-zip.org | |
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
