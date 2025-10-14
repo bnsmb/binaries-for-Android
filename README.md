@@ -12,7 +12,6 @@ Binaries in this repository as of **12.10.2025** are
 | static_gdb/ | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
 | 7zz_25.00_static  | 25.00 | https://www.7-zip.org | statically linked | 
 | 7zz | 25.01 | https://www.7-zip.org | |
-| gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
 | bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
@@ -21,28 +20,32 @@ Binaries in this repository as of **12.10.2025** are
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
 | btop | 1.4.4 | https://github.com/aristocratos/btop | btop needs root access or permissive selinux mode |
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
-  bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
+| bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.9 | https://www.gnu.org/software/cpio/ |  |
 | curl | 8.15.0 | https://github.com/curl/curl |  |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
+| fuser | 22.14 | https://github.com/acg/psmisc | | 
+| gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | htop | 3.4.1 | https://github.com/htop-dev/htop | |
+| klllall | 22.14 | https://github.com/acg/psmisc | | 
 | less | 661 | https://ftp.gnu.org/gnu/less/ | |
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | losetup | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | nano | 8.2, 8.4, 8.5, 8.6 | https://www.nano-editor.org/git.php | |
+| ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php | |
 | openssl | 3.3.1.4 |  https://github.com/openssl/openssl | |
-| protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
 | pigz | 2.8 | https://zlib.net/pigz/ | |
+| protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
+| pstree | 22.14 | https://github.com/acg/psmisc | | 
 | rsync | 3.3.0 | https://github.com/RsyncProject/rsync | |
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
 | sepolicy-inject |  | |
@@ -52,6 +55,9 @@ Binaries in this repository as of **12.10.2025** are
 | sqlite3-3.50.4 | 3.50.4 | https://github.com/sqlite/sqlite/ | |
 | sqlite3-3.50.4.static  | 3.50.4 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
+| toybox_with_debug_infos | 0.8.11-android | | toybox binary compiled with debug infos |
+| umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
+| unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
 | vim | 9.1 | https://github.com/vim/vim  | |
@@ -59,11 +65,6 @@ Binaries in this repository as of **12.10.2025** are
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.1 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
-| pstree | 22.14 | https://github.com/acg/psmisc | | 
-| fuser | 22.14 | https://github.com/acg/psmisc | | 
-| klllall | 22.14 | https://github.com/acg/psmisc | | 
-| umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
 
 ------
 
