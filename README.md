@@ -92,3 +92,16 @@ or
 [https://xdaforums.com/t/guide-how-to-connect-to-android-via-ssh-as-user-shell-without-root-access.4707534/](https://xdaforums.com/t/guide-how-to-connect-to-android-via-ssh-as-user-shell-without-root-access.4707534/)
 
 for details
+
+-------
+
+The tar files **terminfo.tar** and **terminfo_without_hardlinks.tar** contain **terminfo databases**. Terminfo databases are required by programs that have been compiled with **ncurses** or a similar library (such as **gdb**).
+Not all Android versions contain a terminfo database. To use one of these terminfo databases, extract the tar file in the directdory **/data/local/tmp** on the phone and set the environment variables **TERMINFO** and **TERM**, e.g.
+
+```
+export TERMINFO=/data/local/tmp/terminfo
+export TERM=vt100
+```
+
+--------
+
