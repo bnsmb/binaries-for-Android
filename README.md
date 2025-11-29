@@ -44,7 +44,7 @@ Binaries in this repository as of **14.10.2025** are
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php | |
-| openssl | 3.3.1.4 |  https://github.com/openssl/openssl | |
+| openssl | 3.6 |  https://github.com/openssl/openssl | |
 | pigz | 2.8 | https://zlib.net/pigz/ | |
 | protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
 | pstree | 22.14 | https://github.com/acg/psmisc | | 
