@@ -22,7 +22,7 @@ Binaries in this repository as of **14.10.2025** are
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.9 | https://www.gnu.org/software/cpio/ |  |
-| curl | 8.15.0 | https://github.com/curl/curl |  |
+| curl | 8.17.0 | https://github.com/curl/curl |  |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
