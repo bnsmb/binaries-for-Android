@@ -37,9 +37,10 @@ Binaries in this repository as of **14.10.2025** are
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | losetup | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
+| lpdump | | | | 
 | mksh | @(#)MIRBSD KSH R59 2025/06/02 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| nano | 8.2, 8.4, 8.5, 8.6 | https://www.nano-editor.org/git.php | |
+| nano | 8.2, 8.4, 8.5, 8.6, 8.7 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php | |
