@@ -56,6 +56,8 @@ Binaries in this repository as of **14.10.2025** are
 | sqlite3.static | 3.50.1 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | sqlite3-3.50.4 | 3.50.4 | https://github.com/sqlite/sqlite/ | |
 | sqlite3-3.50.4.static  | 3.50.4 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
+| sqlite3_3.51.1 | 3.51.1 |  https://github.com/sqlite/sqlite/ | |
+| strace | 6.18 | https://github.com/strace | | 
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
 | toybox_with_debug_infos | 0.8.11-android | | toybox binary compiled with debug infos |
 | umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
