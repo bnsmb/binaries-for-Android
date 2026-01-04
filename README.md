@@ -31,7 +31,8 @@ Binaries in this repository as of **14.10.2025** are
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
-| htop | 3.4.1 | https://github.com/htop-dev/htop | |
+| htop | 3.4.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
+| htop_static | 3.4.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | less | 661 | https://ftp.gnu.org/gnu/less/ | |
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
