@@ -5,7 +5,7 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **02.02.2026** are
+Binaries in this repository as of **23.02.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
@@ -21,8 +21,10 @@ Binaries in this repository as of **02.02.2026** are
 | btop | 1.4.4 | https://github.com/aristocratos/btop | btop needs root access or permissive selinux mode |
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
-| cpio | 2.9 | https://www.gnu.org/software/cpio/ |  |
+| cpio | 2.15 | https://www.gnu.org/software/cpio/ |  |
 | curl | 8.17.0 | https://github.com/curl/curl |  |
+| darkhttpd | 1.17 | https://github.com/emikulic/darkhttpd | | 
+| darkhttpd_static | 1.17 | https://github.com/emikulic/darkhttpd | this is a statically linked binary |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
@@ -45,9 +47,10 @@ Binaries in this repository as of **02.02.2026** are
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | nano | 8.2, 8.4, 8.5, 8.6, 8.7 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
-| ngrep | 1.47.1 | https://github.com/jpr5/ngrep| |
+| ngrep | 1.48.3 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
 | openssl | 3.5.5 |  https://github.com/openssl/openssl | OpenSSL 3.5 is an LTS version |
+| openvpn | 2.7 | https://openvpn.net/ | | 
 | pigz | 2.8 | https://zlib.net/pigz/ | |
 | protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
 | pstree | 22.14 | https://github.com/acg/psmisc | | 
@@ -61,6 +64,8 @@ Binaries in this repository as of **02.02.2026** are
 | sqlite3-3.50.4.static  | 3.50.4 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | sqlite3_3.51.1 | 3.51.1 |  https://github.com/sqlite/sqlite/ | |
 | strace | 6.18 | https://github.com/strace | | 
+| stunnel | 5.77 | https://www.stunnel.org/ | | 
+| stunnel_static | 5.77 | https://www.stunnel.org/ | this is a statically linked binary |
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
 | toybox_with_debug_infos | 0.8.11-android | | toybox binary compiled with debug infos |
 | umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
