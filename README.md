@@ -116,4 +116,14 @@ export TERM=vt100
 ```
 
 --------
+**Update 24.02.2026**
+
+see this post 
+
+[https://xdaforums.com/t/exe-static-linux-binaries-for-arm-android-cryptsetup-encfs-f2fs-tools-testdisk-photorec.3709380/](https://xdaforums.com/t/exe-static-linux-binaries-for-arm-android-cryptsetup-encfs-f2fs-tools-testdisk-photorec.3709380/)
+
+for a list of other available Unix binaries for Android
+
+
+
 
