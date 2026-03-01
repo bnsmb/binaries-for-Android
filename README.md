@@ -45,7 +45,7 @@ Binaries in this repository as of **23.02.2026** are
 | mkfs.ext4 |1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
 | mksh | @(#)MIRBSD KSH R59 2025/06/02 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| nano | 8.2, 8.4, 8.5, 8.6, 8.7 | https://www.nano-editor.org/git.php | |
+| nano | 8.2, 8.4, 8.5, 8.6, 8.7, 8.7.1 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.48.3 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
