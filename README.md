@@ -9,7 +9,8 @@ Binaries in this repository as of **21.03.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
-| static_gdb/ | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
+| static_gdb16/* | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
+| static_gdb17/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
 | 7zz_26.00_static  | 26.00 | https://www.7-zip.org | statically linked | 
 | 7zz | 26.00 | https://www.7-zip.org | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
@@ -31,7 +32,6 @@ Binaries in this repository as of **21.03.2026** are
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
-| gdb17_static/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | the binaries in this directory are statically linked | 
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | htop | 3.4.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
