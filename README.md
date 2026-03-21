@@ -5,7 +5,7 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **03.03.2026** are
+Binaries in this repository as of **21.03.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
@@ -31,6 +31,7 @@ Binaries in this repository as of **03.03.2026** are
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
+| gdb17_static/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | the binaries in this directory are statically linked | 
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | htop | 3.4.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
