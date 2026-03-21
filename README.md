@@ -5,13 +5,13 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **23.02.2026** are
+Binaries in this repository as of **03.03.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
 | static_gdb/ | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
-| 7zz_25.00_static  | 25.00 | https://www.7-zip.org | statically linked | 
-| 7zz | 25.01 | https://www.7-zip.org | |
+| 7zz_26.00_static  | 26.00 | https://www.7-zip.org | statically linked | 
+| 7zz | 26.00 | https://www.7-zip.org | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
 | bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
@@ -43,9 +43,9 @@ Binaries in this repository as of **23.02.2026** are
 | lpdump | | | | 
 | mkfs.ext3 | 1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
 | mkfs.ext4 |1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
-| mksh | @(#)MIRBSD KSH R59 2025/06/02 | https://github.com/MirBSD/mksh | | 
+| mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| nano | 8.2, 8.4, 8.5, 8.6, 8.7, 8.7.1 | https://www.nano-editor.org/git.php | |
+| nano | 8.7.1 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.48.3 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
@@ -58,10 +58,8 @@ Binaries in this repository as of **23.02.2026** are
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
 | sepolicy-inject |  | |
 | socat | 1.8.0.2 | http://www.dest-unreach.org/socat  | |
-| sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ | |
+| sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ |  |
 | sqlite3.static | 3.50.1 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
-| sqlite3-3.50.4 | 3.50.4 | https://github.com/sqlite/sqlite/ | |
-| sqlite3-3.50.4.static  | 3.50.4 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | sqlite3_3.51.1 | 3.51.1 |  https://github.com/sqlite/sqlite/ | |
 | strace | 6.18 | https://github.com/strace | | 
 | stunnel | 5.77 | https://www.stunnel.org/ | | 
@@ -72,21 +70,24 @@ Binaries in this repository as of **23.02.2026** are
 | unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
-| vim | 9.1 | https://github.com/vim/vim  | |
+| vim_9.1_static | 9.1 | https://github.com/vim/vim  | this is a statically linked binary|
+| vim_9.2 | 9.2 | https://github.com/vim/vim  | |
 | wget2 | 2.1.0 | https://gitlab.com/gnuwget/wget2 | |
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.1 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
 
-------
+Older versions of the tools are in the sub directory **./archive**. 
 
+
+------
 **Notes**
 
 To use the **tmux** binary as user **shell**, the SELinux permissions 
-
+```
 "allow shell shell_data_file sock_file { create getattr setattr write unlink }"  
 "allow shell devpts chr_file { read write open }" 
-
+```
 are required; without these permissions **root** access is necessary to run **tmux** in an adb session
 
 -------
