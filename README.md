@@ -5,7 +5,7 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **21.03.2026** are
+Binaries in this repository as of **28.03.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
@@ -24,6 +24,7 @@ Binaries in this repository as of **21.03.2026** are
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.15 | https://www.gnu.org/software/cpio/ |  |
 | curl | 8.17.0 | https://github.com/curl/curl |  |
+| curl-8.19.0 | 8.19.0 |  https://github.com/curl/curl |  |
 | darkhttpd | 1.17 | https://github.com/emikulic/darkhttpd | | 
 | darkhttpd_static | 1.17 | https://github.com/emikulic/darkhttpd | this is a statically linked binary |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
