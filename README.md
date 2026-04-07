@@ -28,9 +28,9 @@ Binaries in this repository as of **28.03.2026** are
 | darkhttpd | 1.17 | https://github.com/emikulic/darkhttpd | | 
 | darkhttpd_static | 1.17 | https://github.com/emikulic/darkhttpd | this is a statically linked binary |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
-| dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | |
+| dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
 | dcmtl |  |  |  for API version 33, 34, and 35 |
-| find | 4.9.0 | https://www.gnu.org/software/findutils/ | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |  
+| find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
