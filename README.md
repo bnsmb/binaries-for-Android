@@ -49,10 +49,12 @@ Binaries in this repository as of **28.03.2026** are
 | mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | nano | 8.7.1 | https://www.nano-editor.org/git.php | |
+| nano-9.0 | 9.0 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.48.3 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
 | openssl | 3.5.5 |  https://github.com/openssl/openssl | OpenSSL 3.5 is an LTS version |
+| openssl-4.0.0 | 4.0.0 | https://github.com/openssl/openssl | |
 | openvpn | 2.7 | https://openvpn.net/ | | 
 | pagemon | 0.02.06 | https://github.com/ColinIanKing/pagemon | |
 | pigz | 2.8 | https://zlib.net/pigz/ | |
