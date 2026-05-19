@@ -13,6 +13,7 @@ Binaries in this repository as of **15.04.2026** are
 | static_gdb17/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
 | 7zz_26.00_static  | 26.00 | https://www.7-zip.org | statically linked | 
 | 7zz | 26.00 | https://www.7-zip.org | |
+| aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
 | bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
@@ -39,6 +40,7 @@ Binaries in this repository as of **15.04.2026** are
 | htop | 3.4.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
 | htop_static | 3.4.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
+| lpadd | | | |
 | less | 661 | https://ftp.gnu.org/gnu/less/ | |
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
@@ -48,6 +50,7 @@ Binaries in this repository as of **15.04.2026** are
 | mkfs.ext4 |1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
 | mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
+| mount_dynamic_partitions | 1.0.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
 | nano | 8.7.1 | https://www.nano-editor.org/git.php | |
 | nano-9.0 | 9.0 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
