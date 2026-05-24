@@ -50,7 +50,7 @@ Binaries in this repository as of **15.04.2026** are
 | mkfs.ext4 |1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
 | mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| mount_dynamic_partitions | 1.0.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
+| mount_dynamic_partitions | 1.1.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
 | nano | 8.7.1 | https://www.nano-editor.org/git.php | |
 | nano-9.0 | 9.0 | https://www.nano-editor.org/git.php | |
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
