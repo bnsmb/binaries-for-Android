@@ -22,6 +22,7 @@ Binaries in this repository as of **15.04.2026** are
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
+| bpftool_v5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) and the kernel files for the ASUS Zenfone 8 | 
 | btop | 1.4.4 | https://github.com/aristocratos/btop | btop needs root access or permissive selinux mode |
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
@@ -40,7 +41,10 @@ Binaries in this repository as of **15.04.2026** are
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | htop | 3.4.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
-| htop_static | 3.4.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
+| htop_static | 3.4.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc |
+| htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
+| htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc |
+| jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | lpadd | | | |
 | less | 661 | https://ftp.gnu.org/gnu/less/ | |
@@ -53,8 +57,10 @@ Binaries in this repository as of **15.04.2026** are
 | mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | mount_dynamic_partitions | 1.1.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
-| nano | 8.7.1 | https://www.nano-editor.org/git.php | |
-| nano-9.0 | 9.0 | https://www.nano-editor.org/git.php | |
+| nano | 8.7.1 | https://www.nano-editor.org/git.php |  this is a statically linked binary  |
+| nano-9.0 | 9.0 | https://www.nano-editor.org/git.php |  this is a statically linked binary |
+| nano_9.1 | 9.1 | https://www.nano-editor.org/git.php | |
+| nano_static_9.1 | 9.1 | https://www.nano-editor.org/git.php | this is a statically linked binary|
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.48.3 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
