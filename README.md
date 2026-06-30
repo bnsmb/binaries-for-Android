@@ -11,18 +11,19 @@ Binaries in this repository as of **15.04.2026** are
 | ---| ---| ---| ---|
 | static_gdb16/* | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
 | static_gdb17/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
-| 7zz_26.00_static  | 26.00 | https://www.7-zip.org | statically linked | 
-| 7zz_26.01_static  | 26.01 | https://www.7-zip.org | statically linked |
+| 7zz_26.00_static  | 26.00 | https://www.7-zip.org | this is a statically linked binary | 
+| 7zz_26.01_static  | 26.01 | https://www.7-zip.org | this is a statically linked binary |
 | 7zz | 26.00 | https://www.7-zip.org | |
 | 7zz | 26.01 | https://www.7-zip.org | |
 | aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
-| bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked |
-| bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | statically linked and stripped |
+| bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | this is a statically linked binary |
+| bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | This is statically linked and stripped binary |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
-| bpftool_v5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) <br>and the kernel files for the ASUS Zenfone 8 | 
+| bpftool_5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) <br>and the kernel files for the ASUS Zenfone 8 | 
+| bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) <br>and the kernel files for the ASUS Zenfone 8 <br> this is a statically linked binary|
 | btop | 1.4.4 | https://github.com/aristocratos/btop | btop needs root access or permissive selinux mode |
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
