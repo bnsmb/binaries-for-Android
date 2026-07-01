@@ -11,9 +11,7 @@ Binaries in this repository as of **15.04.2026** are
 | ---| ---| ---| ---|
 | static_gdb16/* | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
 | static_gdb17/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
-| 7zz_26.00_static  | 26.00 | https://www.7-zip.org | this is a statically linked binary | 
 | 7zz_26.01_static  | 26.01 | https://www.7-zip.org | this is a statically linked binary |
-| 7zz | 26.00 | https://www.7-zip.org | |
 | 7zz | 26.01 | https://www.7-zip.org | |
 | aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
@@ -41,8 +39,6 @@ Binaries in this repository as of **15.04.2026** are
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
-| htop | 3.4.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
-| htop_static | 3.4.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc |
 | htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
 | htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc |
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
@@ -58,8 +54,6 @@ Binaries in this repository as of **15.04.2026** are
 | mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | mount_dynamic_partitions | 1.1.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
-| nano | 8.7.1 | https://www.nano-editor.org/git.php |  this is a statically linked binary  |
-| nano-9.0 | 9.0 | https://www.nano-editor.org/git.php |  this is a statically linked binary |
 | nano_9.1 | 9.1 | https://www.nano-editor.org/git.php | |
 | nano_static_9.1 | 9.1 | https://www.nano-editor.org/git.php | this is a statically linked binary|
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
