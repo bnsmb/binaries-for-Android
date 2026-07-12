@@ -17,6 +17,7 @@ Binaries in this repository as of **15.04.2026** are
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | this is a statically linked binary |
 | bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | This is statically linked and stripped binary |
+| bat | 0.26.1 | https://github.com/sharkdp/bat | bat is a replacement for cat |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
@@ -33,6 +34,7 @@ Binaries in this repository as of **15.04.2026** are
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
 | dmctl_binaries |  |  | dmctl binaries compiled for Android 13, 14, 15, and 16 |
+| exa | 0.10.1 | https://github.com/ogham/exa | exa is a replacement for ls | 
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
