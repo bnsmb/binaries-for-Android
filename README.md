@@ -49,6 +49,8 @@ Binaries in this repository as of **15.04.2026** are
 | lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | losetup | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | lpdump | | | | 
+| ltrace | 0.8.1 | https://ltrace.org/ | | 
+| ltrace_static | 0.8.1 | https://ltrace.org | this is a statically linked binary |
 | mkfs.ext3 | 1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
 | mkfs.ext4 |1.47.2 | https://git.kernel.org/pub/scm/fs/ext2/e2fsprogs.git | | 
 | mksh | @(#)MIRBSD KSH R59 2025/12/23 | https://github.com/MirBSD/mksh | | 
