@@ -34,7 +34,9 @@ Binaries in this repository as of **15.04.2026** are
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
 | dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
 | dmctl_binaries |  |  | dmctl binaries compiled for Android 13, 14, 15, and 16 |
+| dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
 | exa | 0.10.1 | https://github.com/ogham/exa | exa is a replacement for ls | 
+| fd | 10.4.2 | https://github.com/sharkdp/fd | fd is a replacement for find |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
@@ -68,8 +70,10 @@ Binaries in this repository as of **15.04.2026** are
 | openvpn | 2.7 | https://openvpn.net/ | | 
 | pagemon | 0.02.06 | https://github.com/ColinIanKing/pagemon | |
 | pigz | 2.8 | https://zlib.net/pigz/ | |
+| procs | 0.14.12 | https://github.com/dalance/procs | procs is a replacment for ps |
 | protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
 | pstree | 22.14 | https://github.com/acg/psmisc | | 
+| ripgrep | 15.1.0 | https://github.com/BurntSushi/ripgrep | ripgrep is a recursively searching grep | 
 | rsync | 3.4.1 | https://github.com/RsyncProject/rsync | |
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
 | sepolicy-inject |  | |
