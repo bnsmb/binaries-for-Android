@@ -32,7 +32,8 @@ Binaries in this repository as of **15.04.2026** are
 | curl-8.19.0 | 8.19.0 |  https://github.com/curl/curl |  |
 | darkhttpd | 1.17 | https://github.com/emikulic/darkhttpd | | 
 | darkhttpd_static | 1.17 | https://github.com/emikulic/darkhttpd | this is a statically linked binary |
-| dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 |  |
+| dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 | dig is used for hostname resolution via DNS (like nslookup)  |
+| dog | 0.2.0 |  https://github.com/ogham/dog | dog is a replacement for dig or nslookup |
 | dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
 | dmctl_binaries |  |  | dmctl binaries compiled for Android 13, 14, 15, and 16 |
 | dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
