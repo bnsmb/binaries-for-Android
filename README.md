@@ -36,6 +36,7 @@ Binaries in this repository as of **15.04.2026** are
 | dmctl_binaries |  |  | dmctl binaries compiled for Android 13, 14, 15, and 16 |
 | dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
 | exa | 0.10.1 | https://github.com/ogham/exa | exa is a replacement for ls | 
+| eza | 0.23.5 | https://github.com/eza-community/eza | eza is a replacement for ls (eza is the successor of exa)
 | fd | 10.4.2 | https://github.com/sharkdp/fd | fd is a replacement for find |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
