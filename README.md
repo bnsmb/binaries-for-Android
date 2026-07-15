@@ -36,6 +36,7 @@ Binaries in this repository as of **15.04.2026** are
 | dog | 0.2.0 |  https://github.com/ogham/dog | dog is a replacement for dig or nslookup |
 | dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
 | dmctl_binaries |  |  | dmctl binaries compiled for Android 13, 14, 15, and 16 |
+| dua | 2.38.0 | https://github.com/Byron | dua is a replacment for du |
 | dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
 | eza | 0.23.5 | https://github.com/eza-community/eza | eza is a replacement for ls (eza is the successor of exa)
 | fd | 10.4.2 | https://github.com/sharkdp/fd | fd is a replacement for find |
