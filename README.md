@@ -95,6 +95,7 @@ Binaries in this repository as of **15.04.2026** are
 | vim_9.1_static | 9.1 | https://github.com/vim/vim  | this is a statically linked binary|
 | vim_9.2 | 9.2 | https://github.com/vim/vim  | |
 | wget2 | 2.1.0 | https://gitlab.com/gnuwget/wget2 | |
+| xcp | 0.24.8 | https://github.com/tarka/xcp | a companion for the cp command | 
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.1 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
