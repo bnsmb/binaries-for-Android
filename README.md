@@ -23,15 +23,8 @@ Binaries in this repository as of **15.04.2026** are
 | bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
 | bpftool_5.16.0 | 5.16.0 | | bpftool compiled with the source code <br>from /e/ 4.0 (= Android 16) and the kernel files for <br>the ASUS Zenfone 8 | 
-| bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code from  <br>
-/e/ 4.0 (= Android 16) <br>and the kernel <br>
-files for the ASUS Zenfone 8 <br> this <br>
-is a statically linked binary|
-| btop | 1.4.7 | https://github.com/aristocratos/btop | 
-btop can be used by any user now. However,  btop needs root access or <br>
-permissive SElinux mode to read the network statistics.<br> 
-When started by a non-root user with SELinux enabled, <br>
-btop prints "[limited]" after the IP address |
+| bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code from  <br>/e/ 4.0 (= Android 16) <br>and the kernel <br>files for the ASUS Zenfone 8 <br> this is a statically linked binary|
+| btop | 1.4.7 | https://github.com/aristocratos/btop | btop can be used by any user now. However,  btop needs root <br>access or permissive SElinux mode <br>to read the network statistics.<br> When started by a non-root ser with SELinux enabled, <br>btop prints "[limited]" after the IP address |
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.15 | https://www.gnu.org/software/cpio/ |  |
@@ -54,8 +47,7 @@ btop prints "[limited]" after the IP address |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary<br>  is /data/local/tmp/etc/htoprc | 
-| htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; <br>
-the default config file for this htop binary <br>is /data/local/tmp/etc/htoprc |
+| htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; <br> the default config file for this htop binary <br>is /data/local/tmp/etc/htoprc |
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | lpadd | | | |
