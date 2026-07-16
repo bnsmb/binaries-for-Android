@@ -17,14 +17,21 @@ Binaries in this repository as of **15.04.2026** are
 | aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the <br>Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | this is a statically linked binary |
-| bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | This is statically linked and stripped binary |
+| bash-static-stripped  | 5.2.37|  https://www.gnu.org/software/bash/ | This is statically linked and stripped <br>binary |
 | bat | 0.26.1 | https://github.com/sharkdp/bat | bat is a replacement for cat |
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
 | bpftool_5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) <br>and the kernel files for the ASUS Zenfone 8 | 
-| bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) <br>and the kernel files for the ASUS Zenfone 8 <br> this is a statically linked binary|
-| btop | 1.4.7 | https://github.com/aristocratos/btop | btop can be used by any user now. However,  btop needs root access or permissive SElinux mode to read the network statistics.<br> When started by a non-root user with SELinux enabled, btop prints "[limited]" after the IP address |
+| bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code from  <br>
+/e/ 4.0 (= Android 16) <br>and the kernel <br>
+files for the ASUS Zenfone 8 <br> this <br>
+is a statically linked binary|
+| btop | 1.4.7 | https://github.com/aristocratos/btop | 
+btop can be used by any user now. However,  btop needs root access or <br>
+permissive SElinux mode to read the network statistics.<br> 
+When started by a non-root user with SELinux enabled, <br>
+btop prints "[limited]" after the IP address |
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.15 | https://www.gnu.org/software/cpio/ |  |
@@ -32,13 +39,13 @@ Binaries in this repository as of **15.04.2026** are
 | curl-8.19.0 | 8.19.0 |  https://github.com/curl/curl |  |
 | darkhttpd | 1.17 | https://github.com/emikulic/darkhttpd | | 
 | darkhttpd_static | 1.17 | https://github.com/emikulic/darkhttpd | this is a statically linked binary |
-| dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 | dig is used for hostname resolution via DNS (like nslookup)  |
+| dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 | dig is used for hostname resolution <br>via DNS (like nslookup)  |
 | dog | 0.2.0 |  https://github.com/ogham/dog | dog is a replacement for dig or nslookup |
 | dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
-| dmctl_binaries |  |  | dmctl binaries compiled for Android 13, 14, 15, and 16 |
+| dmctl_binaries |  |  | dmctl binaries compiled for <br>Android 13, 14, 15, and 16 |
 | dua | 2.38.0 | https://github.com/Byron/dua-cli | dua is a replacment for du |
 | dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
-| eza | 0.23.5 | https://github.com/eza-community/eza | eza is a replacement for ls (eza is the successor of exa)
+| eza | 0.23.5 | https://github.com/eza-community/eza | eza is a replacement for ls
 | fd | 10.4.2 | https://github.com/sharkdp/fd | fd is a replacement for find |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
@@ -90,7 +97,7 @@ Binaries in this repository as of **15.04.2026** are
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
 | toybox_with_debug_infos | 0.8.11-android | | toybox binary compiled with debug infos |
 | umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
-| unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
+| unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; <br> see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
 | vim_9.1_static | 9.1 | https://github.com/vim/vim  | this is a statically linked binary|
