@@ -101,7 +101,7 @@ Binaries in this repository as of **15.04.2026** are
 | xz | 5.8.1 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
 
-Older versions of the tools are in the sub directory **./archive**. 
+Older versions of some of the tools are in the sub directory [./archive](https://github.com/bnsmb/binaries-for-Android/tree/main/binaries/archive). 
 
 
 ------
