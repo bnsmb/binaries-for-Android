@@ -53,8 +53,9 @@ btop prints "[limited]" after the IP address |
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
-| htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary is /data/local/tmp/etc/htoprc | 
-| htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; the default config file for this htop binary is /data/local/tmp/etc/htoprc |
+| htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary<br>  is /data/local/tmp/etc/htoprc | 
+| htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; <br>
+the default config file for this htop binary <br>is /data/local/tmp/etc/htoprc |
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | lpadd | | | |
