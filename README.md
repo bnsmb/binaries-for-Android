@@ -22,7 +22,7 @@ Binaries in this repository as of **15.04.2026** are
 | bc | 1.08.1 | https://www.gnu.org/software/bc/ | |
 | bmore | 1.5.0 | https://bvi.sourceforge.net/ |  |
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
-| bpftool_5.16.0 | 5.16.0 | | bpftool compiled with the source code from /e/ 4.0 (= Android 16) <br>and the kernel files for the ASUS Zenfone 8 | 
+| bpftool_5.16.0 | 5.16.0 | | bpftool compiled with the source code <br>from /e/ 4.0 (= Android 16) and the kernel files for <br>the ASUS Zenfone 8 | 
 | bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code from  <br>
 /e/ 4.0 (= Android 16) <br>and the kernel <br>
 files for the ASUS Zenfone 8 <br> this <br>
