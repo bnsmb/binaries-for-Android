@@ -12,8 +12,8 @@ Binaries in this repository as of **15.04.2026** are
 | static_gdb16/* | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
 | static_gdb17.1/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
 | static_gdb17.2/*  | 17.2 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries |
-| 7zz_26.01_static  | 26.01 | https://www.7-zip.org | this is a statically linked binary |
-| 7zz | 26.01 | https://www.7-zip.org | |
+| 7zz_26.02_static  | 26.02 | https://www.7-zip.org | this is a statically linked binary |
+| 7zz_26.02 | 26.02 | https://www.7-zip.org | |
 | aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the <br>Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | this is a statically linked binary |
