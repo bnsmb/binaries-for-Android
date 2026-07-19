@@ -24,7 +24,7 @@ Binaries in this repository as of **15.04.2026** are
 | bmore.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary | 
 | bpftool_5.16.0 | 5.16.0 | | bpftool compiled with the source code<br>from /e/ 4.0 (= Android 16) and the kernel files for <br>the ASUS Zenfone 8 | 
 | bpftool_static_5.16.0 | 5.16.0 | | bpftool compiled with the source code<br>from /e/ 4.0 (= Android 16) <br>and the kernel <br>files for the ASUS Zenfone 8 <br> this is a statically linked binary|
-| btop | 1.4.7 | https://github.com/aristocratos/btop | btop can be used by any user now.<br> However, btop needs root <br>access or permissive <br>SElinux mode to read the<br> network statistics.<br> When started by a non-root user with SELinux enabled, <br>btop prints "[limited]" after the IP address. <br>btop needs the file /etc/fstab to show the filesystem statistics |
+| btop-1.4.7-v1.0.1 | 1.4.7-v1.0.1 for Android | https://github.com/aristocratos/btop | btop can be used by any user now.<br> However, btop needs root <br>access or permissive <br>SElinux mode to read the<br> network statistics.<br> When started by a non-root user with SELinux enabled, <br>btop prints "[limited]" after the IP address. <br> see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_btop) for the documentation|
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.15 | https://www.gnu.org/software/cpio/ |  |
