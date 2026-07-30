@@ -65,7 +65,6 @@ Binaries in this repository as of **15.04.2026** are
 | mount_dynamic_partitions | 1.1.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
 | nano_9.1 | 9.1 | https://www.nano-editor.org/git.php | |
 | nano_static_9.1 | 9.1 | https://www.nano-editor.org/git.php | this is a statically linked binary|
-| patchelf | 0.18.0 | https://github.com/nixos/patchelf | this is a statically linked binary | 
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep | 1.48.3 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
@@ -73,6 +72,7 @@ Binaries in this repository as of **15.04.2026** are
 | openssl-4.0.0 | 4.0.0 | https://github.com/openssl/openssl | |
 | openvpn | 2.7 | https://openvpn.net/ | | 
 | pagemon | 0.02.06 | https://github.com/ColinIanKing/pagemon | |
+| patchelf | 0.18.0 | https://github.com/nixos/patchelf | this is a statically linked binary | 
 | pigz | 2.8 | https://zlib.net/pigz/ | |
 | procs | 0.14.12 | https://github.com/dalance/procs | procs is a replacment for ps |
 | protoc-32.1.0 | 32.1.0 | https://github.com/protocolbuffers/protobuf | | 
