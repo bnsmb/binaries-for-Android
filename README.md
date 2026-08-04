@@ -44,8 +44,8 @@ Binaries in this repository as of **15.04.2026** are
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
-| gunzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
-| gzip | 1.13 | https://www.gnu.org/software/gzip/ |  |
+| gunzip | 1.14 | https://www.gnu.org/software/gzip/ |  |
+| gzip | 1.14 | https://www.gnu.org/software/gzip/ |  |
 | htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary<br>  is /data/local/tmp/etc/htoprc | 
 | htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; <br> the default config file for this htop binary <br>is /data/local/tmp/etc/htoprc |
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
@@ -100,7 +100,7 @@ Binaries in this repository as of **15.04.2026** are
 | wget2 | 2.1.0 | https://gitlab.com/gnuwget/wget2 | |
 | xcp | 0.24.8 | https://github.com/tarka/xcp | a companion for the cp command | 
 | xxd | 9.1 | https://github.com/vim/vim  | |
-| xz | 5.8.1 | https://github.com/tukaani-project/xz | |
+| xz | 5.8.3 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
 
 Older versions of some of the tools are in the sub directory [./archive](https://github.com/bnsmb/binaries-for-Android/tree/main/binaries/archive). 
