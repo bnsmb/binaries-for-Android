@@ -86,7 +86,7 @@ Binaries in this repository as of **15.04.2026** are
 | sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ |  |
 | sqlite3.static | 3.50.1 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | sqlite3_3.51.1 | 3.51.1 |  https://github.com/sqlite/sqlite/ | |
-| strace | 6.18 | https://github.com/strace | | 
+| strace | 7.1 | https://github.com/strace | | 
 | stunnel | 5.77 | https://www.stunnel.org/ | | 
 | stunnel_static | 5.77 | https://www.stunnel.org/ | this is a statically linked binary |
 | tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
