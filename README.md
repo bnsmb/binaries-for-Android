@@ -46,8 +46,8 @@ Binaries in this repository as of **28.08.2026** are
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
 | gunzip | 1.14 | https://www.gnu.org/software/gzip/ |  |
 | gzip | 1.14 | https://www.gnu.org/software/gzip/ |  |
-| htop_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | the default config file for this htop binary<br>  is /data/local/tmp/etc/htoprc | 
-| htop_static_3.5.1 | 3.5.1 | https://github.com/htop-dev/htop | this is a statically linked binary; <br> the default config file for this htop binary <br>is /data/local/tmp/etc/htoprc |
+| htop_3.5.3 | 3.5.3 | https://github.com/htop-dev/htop | |
+| htop_static_3.5.3 | 3.5.3 | ttps://github.com/htop-dev/htop | This is a statically linked binary|
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | lpadd | | | |
@@ -101,7 +101,7 @@ Binaries in this repository as of **28.08.2026** are
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
 | vim_9.1_static | 9.1 | https://github.com/vim/vim  | this is a statically linked binary|
-| vim_9.2 | 9.2 | https://github.com/vim/vim  | |
+| vim_9.2 | 9.2_875 | https://github.com/vim/vim  | |
 | wget2 | 2.1.0 | https://gitlab.com/gnuwget/wget2 | |
 | xcp | 0.24.8 | https://github.com/tarka/xcp | a companion for the cp command | 
 | xxd | 9.1 | https://github.com/vim/vim  | |
