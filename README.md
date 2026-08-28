@@ -64,6 +64,7 @@ Binaries in this repository as of **28.08.2026** are
 | mount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | mount_dynamic_partitions | 1.1.0 | https://github.com/bnsmb/parse-android-dynparts-for-Android | http://bnsmb.de/My_HowTos_for_Android.html#How_to_mount_the_root_filesystem__and_other_dynamic_partitions_in_Android_in_readwrite_mode
 | nano_9.1 | 9.1 | https://www.nano-editor.org/git.php | |
+| nano 9.2 | 9.2 | ttps://www.nano-editor.org/git.php | |
 | nano_static_9.1 | 9.1 | https://www.nano-editor.org/git.php | this is a statically linked binary|
 | patchelf | 0.19.1 | https://github.com/nixos/patchelf | this is a statically linked binary | 
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
