@@ -5,15 +5,15 @@ This repository contains binaries I compiled for Android running on **arm64** CP
 The binaries in the directory **binaries** are all either static linked or dynamically linked for only the standard libraries from Android. They should therefore run on any Android OS
 The binaries run on Android 13 and newer Android versions (most probably also on older versions)
 
-Binaries in this repository as of **28.08.2026** are
+Binaries in this repository as of **08.09.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
 | static_gdb16/* | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
 | static_gdb17.1/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
 | static_gdb17.2/*  | 17.2 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries |
-| 7zz_26.02_static  | 26.02 | https://www.7-zip.org | this is a statically linked binary |
-| 7zz_26.02 | 26.02 | https://www.7-zip.org | |
+| 7zz_26.03_static  | 26.03 | https://www.7-zip.org | this is a statically linked binary |
+| 7zz_26.03 | 26.03 | https://www.7-zip.org | |
 | aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the <br>Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | this is a statically linked binary |
