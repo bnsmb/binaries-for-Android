@@ -35,7 +35,7 @@ Binaries in this repository as of **08.09.2026** are
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 | dig is used for hostname resolution <br>via DNS (like nslookup)  |
 | dog | 0.2.0 |  https://github.com/ogham/dog | dog is a replacement for dig or nslookup |
 | dnsmasq | 2.92rc3 | https://thekelleys.org.uk/dnsmasq/doc.html | see http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_dnsmasq or https://xdaforums.com/t/module-magisk-module-with-dnsmasq-for-the-android-os.4784807/ for the documentation |
-| dmctl_binaries |  |  | dmctl binaries compiled for <br>Android 13, 14, 15, and 16 |
+| dmctl_binaries |  |  | dmctl binaries compiled for <br>Android 13, 14, 15, 16 and 17 |
 | dua | 2.38.0 | https://github.com/Byron/dua-cli | dua is a replacment for du |
 | dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
 | eza | 0.23.5 | https://github.com/eza-community/eza | eza is a replacement for ls
