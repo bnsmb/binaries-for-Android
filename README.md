@@ -70,9 +70,9 @@ Binaries in this repository as of **08.09.2026** are
 | ncat  | 7.93 | https://nmap.org/ncat/ | | 
 | ngrep-v1.49.0 | 1.49.0 | https://github.com/jpr5/ngrep| |
 | nmon | 16q | https://nmon.sourceforge.io/pmwiki.php |  |
-| openssl-3.5.6 | 3.5.6 |  https://github.com/openssl/openssl | OpenSSL 3.5 is an LTS version |
+| openssl-3.5.8 | 3.5.8 |  https://github.com/openssl/openssl | OpenSSL 3.5 is an LTS version |
 | openssl-4.0.0 | 4.0.0 | https://github.com/openssl/openssl | |
-| openvpn | 2.7 | https://openvpn.net/ | | 
+| openvpn-2.7.7 | 2.7.7 | https://openvpn.net/ | | 
 | pagemon | 0.02.06 | https://github.com/ColinIanKing/pagemon | |
 | patchelf | 0.19.1 | https://github.com/nixos/patchelf | this is a statically linked binary | 
 | pgrep-3.3.17 | 3.3.17 | https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-3.3.17.tar.xz | |
@@ -83,21 +83,21 @@ Binaries in this repository as of **08.09.2026** are
 | ps-3.3.17 | 3.3.17 | https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-3.3.17.tar.xz | | 
 | pstree | 22.14 | https://github.com/acg/psmisc | | 
 | ripgrep | 15.1.0 | https://github.com/BurntSushi/ripgrep | ripgrep is a recursively searching grep | 
-| rsync | 3.4.1 | https://github.com/RsyncProject/rsync | |
+| rsync-3.5.1| 3.5.1 | https://github.com/RsyncProject/rsync | |
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
 | sepolicy-inject |  | |
 | socat | 1.8.0.2 | http://www.dest-unreach.org/socat  | |
-| sqlite3 | 3.50.1 | https://github.com/sqlite/sqlite/ |  |
-| sqlite3.static | 3.50.1 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
-| sqlite3_3.51.1 | 3.51.1 |  https://github.com/sqlite/sqlite/ | |
-| strace | 7.1 | https://github.com/strace | | 
-| stunnel | 5.77 | https://www.stunnel.org/ | | 
+| sqlite3-3.53.4 | 3.53.4 | https://github.com/sqlite/sqlite/ |  |
+| sqlite3-3.51.3.static | 3.51.3 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
+| strace-7.2 | 7.2 | https://github.com/strace | | 
+| stunnel-5.82 | 5.82 | https://www.stunnel.org/ | | 
 | stunnel_static | 5.77 | https://www.stunnel.org/ | this is a statically linked binary |
-| tmux | 3.5a | https://github.com/tmux/tmux  | see below for additional infos | 
+| tmux | 3.7c | https://github.com/tmux/tmux  | see below for additional infos | 
 | top-3.3.17 |  3.3.17 | https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-3.3.17.tar.xz | |
 | toybox_with_debug_infos | 0.8.11-android | | toybox binary compiled with debug infos |
 | umount | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | unfsd | 0.11.0 | https://github.com/unfs3/unfs3 | a userland NFS v3 daemon; <br> see [here](http://bnsmb.de/Magisk_Modules.html#Documentation_for_the_Magisk_Module_with_unfsd3) or this [post](https://xdaforums.com/t/guide-how-to-share-directories-on-the-phone-running-android-via-nfs-as-non-root-user.4756743/) in XDA| 
+| unrar_7.23| 7.23 | | | 
 | unzip | 5.52 | https://infozip.sourceforge.net/ | |
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
 | vim_9.1_static | 9.1 | https://github.com/vim/vim  | this is a statically linked binary|
@@ -107,6 +107,7 @@ Binaries in this repository as of **08.09.2026** are
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.3 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
+| zstd-1.5.7 | 1.5.7 | | |
 
 Older versions of some of the tools are in the sub directory [./archive](https://github.com/bnsmb/binaries-for-Android/tree/main/binaries/archive). 
 
