@@ -107,7 +107,7 @@ Binaries in this repository as of **08.09.2026** are
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.3 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
-| zstd-1.5.7 | 1.5.7 | | |
+| zstd-1.5.7 | 1.5.7 | https://github.com/Facebook/zstd | |
 
 Older versions of some of the tools are in the sub directory [./archive](https://github.com/bnsmb/binaries-for-Android/tree/main/binaries/archive). 
 
