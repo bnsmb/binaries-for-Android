@@ -86,7 +86,7 @@ Binaries in this repository as of **08.09.2026** are
 | rsync-3.5.1| 3.5.1 | https://github.com/RsyncProject/rsync | |
 | script | 2.48 | https://github.com/util-linux/util-linux/ | |
 | sepolicy-inject |  | |
-| socat | 1.8.0.2 | http://www.dest-unreach.org/socat  | |
+| socat-1.8.1.3 | 1.8.1.3 | http://www.dest-unreach.org/socat  | |
 | sqlite3-3.53.4 | 3.53.4 | https://github.com/sqlite/sqlite/ |  |
 | sqlite3-3.51.3.static | 3.51.3 | https://github.com/sqlite/sqlite/ | this is a statically linked binary |
 | strace-7.2 | 7.2 | https://github.com/strace | | 
