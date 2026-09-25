@@ -44,8 +44,8 @@ Binaries in this repository as of **08.09.2026** are
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
 | gawk | 5.3.2 |  https://www.gnu.org/software/gawk/ | |
-| gunzip | 1.14 | https://www.gnu.org/software/gzip/ |  |
-| gzip | 1.14 | https://www.gnu.org/software/gzip/ |  |
+| gunzip | 1.15 | https://www.gnu.org/software/gzip/ |  |
+| gzip | 1.15 | https://www.gnu.org/software/gzip/ |  |
 | htop_3.5.3 | 3.5.3 | https://github.com/htop-dev/htop | |
 | htop_static_3.5.3 | 3.5.3 | https://github.com/htop-dev/htop | This is a statically linked binary|
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
