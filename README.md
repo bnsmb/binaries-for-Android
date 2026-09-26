@@ -28,8 +28,7 @@ Binaries in this repository as of **08.09.2026** are
 | bvi | 1.5.0 | https://bvi.sourceforge.net/ | |
 | bvi.static | 1.5.0 | https://bvi.sourceforge.net/ | this is a statically linked binary |
 | cpio | 2.15 | https://www.gnu.org/software/cpio/ |  |
-| curl | 8.17.0 | https://github.com/curl/curl |  |
-| curl-8.19.0 | 8.19.0 |  https://github.com/curl/curl |  |
+| curl-8.22.0 | 8.22.0 |  https://github.com/curl/curl |  |
 | darkhttpd | 1.17 | https://github.com/emikulic/darkhttpd | | 
 | darkhttpd_static | 1.17 | https://github.com/emikulic/darkhttpd | this is a statically linked binary |
 | dig | 9.11.37 | https://gitlab.isc.org/isc-projects/bind9 | dig is used for hostname resolution <br>via DNS (like nslookup)  |
