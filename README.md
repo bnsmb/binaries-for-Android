@@ -91,6 +91,7 @@ Binaries in this repository as of **08.09.2026** are
 | strace-7.2 | 7.2 | https://github.com/strace | | 
 | stunnel-5.82 | 5.82 | https://www.stunnel.org/ | | 
 | stunnel_static | 5.77 | https://www.stunnel.org/ | this is a statically linked binary |
+| swapon | 2.42.1 | https://www.kernel.org/pub/linux/utils/util-linux/ | the binaries requires root access<br>or a SELinux rule<br>to allow access to /proc
 | tmux-3.7c | 3.7c | https://github.com/tmux/tmux  | see below for additional infos | 
 | top-3.3.17 |  3.3.17 | https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-3.3.17.tar.xz | |
 | toybox_with_debug_infos | 0.8.11-android | | toybox binary compiled with debug infos |
