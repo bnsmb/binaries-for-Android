@@ -9,9 +9,8 @@ Binaries in this repository as of **08.09.2026** are
 
 | Binary | version | source code | comment |
 | ---| ---| ---| ---|
-| static_gdb16/* | 16.3 | https://sourceware.org/gdb/ | statically linked gdb binaries |
-| static_gdb17.1/*  | 17.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries | 
-| static_gdb17.2/*  | 17.2 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries |
+| gdb18.1/*  | 18.1 | https://sourceware.org/git/binutils-gdb.git | | 
+| static_gdb18.1/*  | 18.1 | https://sourceware.org/git/binutils-gdb.git | statically linked gdb binaries |
 | 7zz_26.03_static  | 26.03 | https://www.7-zip.org | this is a statically linked binary |
 | 7zz_26.03 | 26.03 | https://www.7-zip.org | |
 | aapt2 | | |
