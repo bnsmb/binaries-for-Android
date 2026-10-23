@@ -100,7 +100,7 @@ Binaries in this repository as of **08.09.2026** are
 | unzipsfx | 5.52 | https://infozip.sourceforge.net/ | |
 | vim_9.1_static | 9.1 | https://github.com/vim/vim  | this is a statically linked binary|
 | vim_9.2 | 9.2_875 | https://github.com/vim/vim  | |
-| wget2 | 2.3.0 | https://gitlab.com/gnuwget/wget2 | hsts is disabled -- use --hsts to enable it<br>check certificates is disabled<br> use --check-certificate=1to enable it|
+| wget2 | 2.3.0 | https://gitlab.com/gnuwget/wget2 | hsts is disabled - use<br> --hsts<br>to enable it<br>check certificates is disabled - use<br> --check-certificate=1 <br>to enable it|
 | xcp | 0.24.8 | https://github.com/tarka/xcp | a companion for the cp command | 
 | xxd | 9.1 | https://github.com/vim/vim  | |
 | xz | 5.8.3 | https://github.com/tukaani-project/xz | |
