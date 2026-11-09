@@ -11,8 +11,8 @@ Binaries in this repository as of **08.09.2026** are
 | ---| ---| ---| ---|
 | gdb18.1/*  | 18.1 | https://sourceware.org/gdb/ | | 
 | static_gdb18.1/*  | 18.1 | https://sourceware.org/gdb/ | statically linked gdb binaries |
-| 7zz_26.04_static  | 26.04 | https://www.7-zip.org | this is a statically linked binary |
-| 7zz_26.04 | 26.04 | https://www.7-zip.org | |
+| 7zz_26.06_static  | 26.06 | https://www.7-zip.org | this is a statically linked binary |
+| 7zz_26.06 | 26.06 | https://www.7-zip.org | |
 | aapt2 | | |
 | bash | 5.2.37|  https://www.gnu.org/software/bash/ | dynamically linked for the <br>Android OS libraries |
 | bash-static | 5.2.37|  https://www.gnu.org/software/bash/ | this is a statically linked binary |
