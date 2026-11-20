@@ -38,6 +38,7 @@ Binaries in this repository as of **08.09.2026** are
 | dust | 1.2.4 | https://github.com/bootandy/dust | dust is a replacement for du | 
 | eza | 0.23.5 | https://github.com/eza-community/eza | eza is a replacement for ls
 | fd | 10.4.2 | https://github.com/sharkdp/fd | fd is a replacement for find |
+| file | 5.48 | https://github.com/file/file | the binary uses a build-in<br> magic db; use the<br> parameter "-m" to overwrite<br> the db |
 | find | 4.9.0 | https://www.gnu.org/software/findutils/ | |  
 | funzip | 3.94 | https://infozip.sourceforge.net/ | |
 | fuser | 22.14 | https://github.com/acg/psmisc | | 
