@@ -107,7 +107,7 @@ Binaries in this repository as of **08.09.2026** are
 | xz | 5.8.3 | https://github.com/tukaani-project/xz | |
 | zip | 3.0 | https://infozip.sourceforge.net/Zip.html | |
 | zramctl | zramctl from util-linux 2.42.1 (android-1) | https://www.kernel.org/pub/linux/utils/util-linux/ | zramctl with code modifications <br>to work in Android |
-| zstd-1.6.0 | 1.6.0 | https://github.com/Facebook/zstd | zstd was build with legacy supporty<br>also included is the binary pzstd|
+| zstd-1.6.0 | 1.6.0 | https://github.com/Facebook/zstd | zstd was build with legacy support<br>also included is the binary pzstd|
 
 Older versions of some of the tools are in the sub directory [./archive](https://github.com/bnsmb/binaries-for-Android/tree/main/binaries/archive). 
 
