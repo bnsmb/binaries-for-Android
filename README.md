@@ -50,9 +50,8 @@ Binaries in this repository as of **08.09.2026** are
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
 | lpadd | | | |
-| less | 661 | https://ftp.gnu.org/gnu/less/ | |
+| less | 710 | https://ftp.gnu.org/gnu/less/ | lesskey is not necessary<br> anymore with this version|
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
-| lesskey | 1.15 | https://ftp.gnu.org/gnu/less/ | |
 | losetup | util-linux 2.40 | https://github.com/util-linux/util-linux/ | this is a statically linked binary |
 | lpdump | | | | 
 | ltrace | 0.8.1 | https://ltrace.org/ | | 
