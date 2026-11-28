@@ -50,7 +50,7 @@ Binaries in this repository as of **28.11.2026** are
 | htop_static_3.5.3 | 3.5.3 | https://github.com/htop-dev/htop | This is a statically linked binary|
 | jq-1.7.1 | 1.7.1 | https://jqlang.org/ | | 
 | klllall | 22.14 | https://github.com/acg/psmisc | | 
-| load_policy  | https://github.com/bnsmb/Tools-for-Android | a tool to reload the SELinux<br>policies in Android | 
+| load_policy   | | https://github.com/bnsmb/Tools-for-Android | a tool to reload the SELinux<br>policies in Android | 
 | lpadd | | | |
 | less | 710 | https://ftp.gnu.org/gnu/less/ | lesskey is not necessary<br> anymore with this version|
 | lessecho | 1.15 | https://ftp.gnu.org/gnu/less/ | |
